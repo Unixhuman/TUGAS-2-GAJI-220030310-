@@ -1,4 +1,4 @@
-# TUGAS-2-GAJI-220030310-
+# DOKUMENTASI TUGAS 2 GAJI 220030310
 FITUR:
 1. Data Karyawan (index.php):
    - Menampilkan tabel dengan informasi karyawan seperti NIK (Nomor Induk Karyawan), Nama, Alamat, dan Gaji Pokok.
@@ -27,6 +27,8 @@ FITUR:
 CARA PENGGUNAAN :
 ![image](https://github.com/Unixhuman/TUGAS-2-GAJI-220030310-/assets/146809846/38764baa-4853-4f34-b76b-c6912c660cf8)
 ![image](https://github.com/Unixhuman/TUGAS-2-GAJI-220030310-/assets/146809846/3dd7787d-55e3-4091-ab84-8b4ab8dd6413)
+![image](https://github.com/Unixhuman/TUGAS-2-GAJI-220030310-/assets/146809846/8e658185-97a4-4cf6-9a67-cae7f7c354b5)
+![image](https://github.com/Unixhuman/TUGAS-2-GAJI-220030310-/assets/146809846/ef897c6a-942c-45d8-9e0a-1bd654ff27c9)
 
 1. Melihat Data Karyawan (index.php):
    - Pengguna dapat melihat daftar karyawan dan informasi dasar mereka.
